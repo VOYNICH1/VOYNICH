@@ -1,0 +1,53 @@
+[17:12:10] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.18.2
+[17:12:11] [main/INFO]: Loading 6 mods:
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- java 21
+	- minecraft 1.21.1
+	- skinrestorer 2.5.0+1.21-fabric
+	   \-- org_mineskin_java-client 3.2.1-SNAPSHOT
+[17:12:11] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/VOYNICH/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[17:12:11] [main/INFO]: Compatibility level set to JAVA_17
+[17:12:12] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[17:12:16] [main/WARN]: fabric-api is not loaded, SkinShuffle compatibility will not be available
+[17:12:16] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:12:18] [main/INFO]: Loaded 1290 recipes
+[17:12:18] [main/INFO]: Loaded 1399 advancements
+[17:12:18] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[17:12:18] [Server thread/INFO]: Loading properties
+[17:12:18] [Server thread/INFO]: Default game type: SURVIVAL
+[17:12:18] [Server thread/INFO]: Generating keypair
+[17:12:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:12:18] [Server thread/INFO]: Using epoll channel type
+[17:12:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:12:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:12:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:12:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:12:18] [Server thread/INFO]: Preparing level "world"
+[17:12:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:12:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:12:23] [Server thread/INFO]: Time elapsed: 440 ms
+[17:12:23] [Server thread/INFO]: Done (4.023s)! For help, type "help"
+[17:13:44] [Server thread/INFO]: Rodjes7[/10.105.175.200:54618] logged in with entity id 7 at (1232.5789461440263, 7.0, 717.8709489519039)
+[17:13:45] [Server thread/INFO]: Rodjes7 joined the game
+[17:22:12] [Server thread/INFO]: Villager class_1646['Villager'/3510, l='ServerLevel[world]', x=278.70, y=63.00, z=28.70] died, message: 'Villager was squished too much'
+[17:33:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=276, y=60, z=37} class_2338{x=276, y=61, z=37}
+[17:38:00] [Server thread/INFO]: Villager class_1646['Villager'/3504, l='ServerLevel[world]', x=278.70, y=63.00, z=28.70] died, message: 'Villager was squished too much'
+[17:44:14] [Server thread/INFO]: Villager class_1646['Librarian'/3423, l='ServerLevel[world]', x=276.50, y=60.37, z=36.69] died, message: 'Librarian was slain by Zombie'
+[17:46:35] [Server thread/INFO]: Villager class_1646['Villager'/3516, l='ServerLevel[world]', x=278.70, y=63.00, z=28.70] died, message: 'Villager was squished too much'
+[17:49:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=276, y=64, z=34} class_2338{x=274, y=63, z=57}
+[17:50:23] [Server thread/INFO]: Villager class_1646['Librarian'/3422, l='ServerLevel[world]', x=276.50, y=60.61, z=36.46] died, message: 'Librarian was slain by Zombie'
+[17:52:20] [Server thread/INFO]: Villager class_1646['Fletcher'/3419, l='ServerLevel[world]', x=276.50, y=60.61, z=36.46] died, message: 'Fletcher was slain by Zombie'
+[17:55:04] [Server thread/INFO]: Villager class_1646['Fletcher'/3415, l='ServerLevel[world]', x=276.50, y=60.33, z=36.74] died, message: 'Fletcher was slain by Zombie'
+[17:57:18] [Server thread/INFO]: Villager class_1646['Villager'/3517, l='ServerLevel[world]', x=278.70, y=63.00, z=28.70] died, message: 'Villager was squished too much'
+[17:57:24] [Server thread/INFO]: Villager class_1646['Fletcher'/3414, l='ServerLevel[world]', x=276.50, y=60.44, z=36.62] died, message: 'Fletcher was slain by Zombie'
+[17:57:33] [Server thread/INFO]: Villager class_1646['Villager'/3522, l='ServerLevel[world]', x=278.70, y=63.00, z=28.70] died, message: 'Villager was squished too much'
+[18:06:29] [Server thread/INFO]: Villager class_1646['Villager'/3520, l='ServerLevel[world]', x=278.70, y=63.00, z=28.70] died, message: 'Villager was squished too much'
+[18:13:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=358, y=51, z=-140} class_2338{x=670, y=65, z=-178}
+[18:13:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=358, y=51, z=-140} class_2338{x=670, y=65, z=-178}
+[18:13:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=358, y=51, z=-140} class_2338{x=670, y=65, z=-178}
+[18:13:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=358, y=51, z=-140} class_2338{x=670, y=65, z=-178}
+[18:13:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=682, y=69, z=-178} class_2338{x=681, y=69, z=-178}
+[18:34:22] [Server thread/INFO]: Villager class_1646['Villager'/19284, l='ServerLevel[world]', x=278.70, y=63.00, z=28.70] died, message: 'Villager was squished too much'
+[18:38:46] [Server thread/INFO]: Rodjes7 lost connection: Disconnected
+[18:38:46] [Server thread/INFO]: Rodjes7 left the game
